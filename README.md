@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing my skills<br>👯 I’m looking to collaborate on New Projects<br>🌱 I’m currently learning Backend and Typescript<br>💬 Ask me about Javascript and Flutter<br>
+🔭 I’m currently working on Developing my skills<br>👯 I’m looking to collaborate on New Projects<br>🌱 I’m currently learning Backend and DSA In C++ <br>💬 Ask me about Javascript and Flutter<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_paaaarth19)
