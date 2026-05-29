@@ -3,6 +3,7 @@
 ## Software Engineer
 
 - Based in **Gurugram, India**.
+- See my portfolio at [**Parthsaarthie sharma**](https://parthsaarthiesharma.dev/).
 - Reach out to me [**Email**](mailto:parthsaarthiesharma1909@gmail.com) or [**Twitter**](https://x.com/Parthsaarthie19).
 - Working with **MERN, NextJS, Typescript, Node.js** nowadays!
 
@@ -19,6 +20,8 @@
 
 - Connect with me on [**X/Twitter**](https://x.com/Parthsaarthie19).
 - Add me on [**LinkedIn**](https://www.linkedin.com/in/parthsaarthie-sharma/).
+- Everything on [**Website**](https://parthsaarthiesharma.dev/).
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paaaarth1909&" alt="Paaaarth1909" /></p>
